@@ -1,0 +1,26 @@
+{
+  "name": "Alan Hale",
+  "age": 62,
+  "address": {
+    "street": "Bazmem Point",
+    "city": "Teidita",
+    "state": "ID",
+    "zip": "40116"
+  },
+  "contact": {
+    "phone": "(277) 251-3801",
+    "servicePhone": "800193288"
+  },
+  "birthday": "1968-08-10T12:53:07.612Z",
+  "ip": "92.78.197.147",
+  "foo": "bar",
+  "profile": {
+    "about": "Iro rozi niz awmu seb cawmaku opamiwap upi fokra hak tepozzok la hutjiopa. Sebwaknu cehad uru su jediba ler nefube ca wu age ca wefor li. Be vajipina sa iki ol ewazimdik zizoco wuj ecoliivi zukaoh faup ab umo edu muwlug pazhonas ro iwidibe.",
+    "bio": "Racun icomoc egjurmok vijrapo isikvi wuvgekfen vucuw zego rofgo sowco geneke rudbof wi og gafobohig behaves otak. Ses orho saotahu anoej ipiibiog legeeko liliwdil wigisev jokanu suna tegvoflef malus. Gidgag jig hufupniw sij zitziug up jiahuve to pumawe bavisla vokitvi bo ellijut bor ummow."
+  },
+  "apiKey": "c38cbca5e2d8e3823f29f85747f891f870cd6da22d7888031fd385fe63648aea",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
