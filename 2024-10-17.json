@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Pearson",
+  "age": 56,
+  "address": {
+    "street": "Picve Center",
+    "city": "Jazcunu",
+    "state": "VT",
+    "zip": "18458"
+  },
+  "contact": {
+    "phone": "(430) 708-3351",
+    "servicePhone": "800724372"
+  },
+  "birthday": "2002-01-19T03:25:26.988Z",
+  "ip": "231.169.6.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Pacgam ofa rit ri huzvir hu muib mogveulu vanfuz ozuj ow fazgieg za rizjowhit kiguvjew robuz lo. Sak makdo nusej biktolak atfuz takdova um soopuhit tuwul ed olcuz tonmi viga. Tigivouci ruj gaepmi nu dakew woluz pipli or vazus reto ipenuthuc pivibwi li vumdid ofa etojiz inbak. Nu hit hed wengu uh puzjupik ev zapje wid cifafe vu ozamoku degzofed.",
+    "bio": "Odo tailuge uklu if wuva wo wiel wohekik wegihde eja zufep pib. Gemerwe vankuh niz toepuzet vijaohi orakipa ak wujaru jafgadeti cuppi lakodgep pozva teko lu ziguzsil zulo imored dubjo. Padmuv gomu aka viciusa ban icivok ramobpic ozuda vifbiv pub hijomu baigiefo gisul. Es wa gatalaz kekon rovoto gopitasut zaad sig fezgumub hucaj dug affa eweke tipvovib ma vowduho. Acegoata ticemof icpebmi notjob ijvoge ji udupaw fuajioki kionevu midavvos no deelcip. Lalduima ma suz joezu etno co uji sek ah teziw du zotpadim ehi pakbirvi."
+  },
+  "apiKey": "5d63a60ddbf6dd432c83bdb060d2b5617fba57b90a648c4011e1898c035d4e36",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
