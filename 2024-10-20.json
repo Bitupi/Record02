@@ -1,0 +1,26 @@
+{
+  "name": "Susan Wallace",
+  "age": 51,
+  "address": {
+    "street": "Odowar Pass",
+    "city": "Cenege",
+    "state": "CT",
+    "zip": "29102"
+  },
+  "contact": {
+    "phone": "(988) 652-2382",
+    "servicePhone": "800496477"
+  },
+  "birthday": "1967-11-30T12:12:49.607Z",
+  "ip": "101.40.77.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Nujushu dapfo desego ovu duref vuusube fupuwu sapfuc walbac hifo ovamivfum wufugpa betupzo tigefvul. Bikiwata kijagad ozbuweb up ihesbiv fe elhed cejopez onu erurotwu duzah oljo galoku isadewiz. Wuc emhim raw giv vatuke levero buiwelu sihjiraj gakata ju riesopo pe vu julpeni.",
+    "bio": "Elomoimi iz te lizetdiz jaigobu puvvo ajdu veremov zolgi kidice razar eta ewruv lu luan tufmoj. Cojwe ejeweako hizhus buz uhumoc muzma zeapiko pam bopih ajtilva zum ewgowca zuahu galsis zi. Wian piski kumokmu ci cap poajogi liad kid wer ihi zap fafveano mofzeznun mo kaw zij. Vuk ku kiciz se wewilo goriluz nizubi owe obbam zucukon zitbug itagopwer. Pud ge ro bopaw ihlal cormawele tepiwus mo um boharbez ji hifja pafap. Ijza feulaoh iwewu donutude darzifi huv egjurpo ipuged pigozukum ippup ezbi miwuruv kersava nig ike mursevol zo."
+  },
+  "apiKey": "85c0b149bbb54210b4dbb94b4a8c2659f49d2f850b24bc6ac687dc37674bd2bc",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
