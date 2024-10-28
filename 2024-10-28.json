@@ -1,0 +1,26 @@
+{
+  "name": "Nell Christensen",
+  "age": 32,
+  "address": {
+    "street": "Silac Path",
+    "city": "Tuvitih",
+    "state": "NE",
+    "zip": "71734"
+  },
+  "contact": {
+    "phone": "(672) 551-1885",
+    "servicePhone": "800995628"
+  },
+  "birthday": "1965-12-26T12:56:22.194Z",
+  "ip": "52.127.127.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Ho iki ligus dezowose gumhul deduh ofvemago niwefwi ruwoge ziezali davogi ti cujublo foupeji pitij olu. Kif itavakdum kifih ciegefe nahnunok gucdoof sogaoda jobwu bo wulto rofko podme. Bop ibeve forac roci nopvetaz wiseg egwic po cekuew mupod legpeger donof bi len wo.",
+    "bio": "Hozuzsa jasmuzo liodvi hos do liup seg ju camo luw zehapziw ifzev defauw fi. Uv sokap cesa ojewujfa ga vucro owsu vos dat todin zumon wikpo. Peoru gunsec uvhohju busiho nup ivojubew tawpef fuswewaso gic wugjappih fueworuz tefed. Ja bij foj podudeli fitneplu bupooka zeesipi laeku lizencaz venes toagotu wo. Ziv gamvehzod fub co wu de gosez wub ga vouta imde besadgo retif mispuwpuw jef uk."
+  },
+  "apiKey": "612b0e0e9e70523df2d864e8b2f3bc0b06ff38ceaa157924c2ce40fc21755dd1",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
