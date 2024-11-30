@@ -1,0 +1,26 @@
+{
+  "name": "Anne Wilkerson",
+  "age": 60,
+  "address": {
+    "street": "Lijzu Turnpike",
+    "city": "Iscahlub",
+    "state": "OH",
+    "zip": "84932"
+  },
+  "contact": {
+    "phone": "(263) 666-3809",
+    "servicePhone": "800722996"
+  },
+  "birthday": "2004-04-27T05:42:55.300Z",
+  "ip": "146.228.196.5",
+  "foo": "bar",
+  "profile": {
+    "about": "Kowa suhbo ik ibape ha iwogina godalwim eleba soz powkac tofeivu ran. Bemofa muozofo delezute ungiwono woduizo vic ihozudvah nehrot kelegu ribmeuz ele ban hekehial okfejno ab pu. Casipor ejlaaz ziwtucgo ven vo hi ifkujo diruf safokevuk dec ka gi ukudif udepu ruafaid era asmal. Azi rijcunim mifta insu rognopaf siljeni romu zoifod lubad ifki kaw saw fobma. Hunuk hancid jo muwgaf fof jeilnov pignucok ucjef terna lopuak rak nod pos talbe rollaledi apagarmos bajitpon toebuhej. Ej en zavunji sivni vawbo omfon efvo nilpu zojhuke ag wiebafig linehzaf ipo.",
+    "bio": "Pi worib egonaol vurujiohi niavavi zidipubow hu afmowru ala igimu anwup rewepe etane dithean geubo su hiemve. Onuuz ce lada kefij iv kowjived noweve bu duz je nab lutaz. Lunmen oculi beg taguji heefnop ke dettitus ci hodoz je hotafze funejcik sojvuumo lakbew."
+  },
+  "apiKey": "bfe40530044f0d58a2f99ff134e53b058e50119281df3f69b5742af4324172f7",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
