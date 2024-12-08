@@ -1,0 +1,26 @@
+{
+  "name": "Alma Vega",
+  "age": 29,
+  "address": {
+    "street": "Buswo Court",
+    "city": "Hosbica",
+    "state": "MI",
+    "zip": "48633"
+  },
+  "contact": {
+    "phone": "(235) 806-1124",
+    "servicePhone": "800946754"
+  },
+  "birthday": "1986-10-25T05:26:19.151Z",
+  "ip": "107.6.177.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Roz keaw defkavdeg em bo denutuvul zupge ko piv ekajjo de mijnoja mizavhet ecujoome lifuij jo. Iwumit ih fecnese jiniw jussi sime ruje mapipso sajila feh ditdipuc gigefsek te avelegur gop avipa fofusguh le. Fodcine roralek upe babowop zavbez keihhi hasabo firfus fiide kunaz himsofni befnalo. Noamde si abitupoz kouto ir ji mari gok se ah jicke nuihaba isihutu kotageza zicpaomi rezliclu ugefu lejelga.",
+    "bio": "Jakne ulo utwo hutmic ta koifaduv romu noro ep gazu kumu huko zu eswum lodcote ag. Vah vib jadtic wergu rig va tolihzot kol metipumo jali ga vaeneme buela illem uvamumag. Awneszuw zidamik jevde nubnat bivovep vivfa ba petoabu usowupoz rog ribne ducisen gogre. Efe tacamro pacno tamdec timkekone uwaliwsa od bufaga muwjihul bizapba fuczusil oha fiv kise. Ufvi tul tez luidaza zaho geloz ra zuma ruus eh pac vilrob wozib kaf feza heepori."
+  },
+  "apiKey": "d47e428da8c1660784439ef049b5f20766518ece7d8e333cf9d623731cca3e1a",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
