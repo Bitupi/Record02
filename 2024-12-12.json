@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Larson",
+  "age": 18,
+  "address": {
+    "street": "Sehup Extension",
+    "city": "Wesifkig",
+    "state": "WV",
+    "zip": "28615"
+  },
+  "contact": {
+    "phone": "(286) 220-9758",
+    "servicePhone": "800976193"
+  },
+  "birthday": "2002-07-26T10:50:38.913Z",
+  "ip": "114.38.162.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Kohnus cur muliriv guwozvim ti fu vuc zuhkukifu hewi dij du tumu kejal. Ignudtu alapamevi esa low iceoha koepieba kap of bucuc wad efi hinuzfej if degelen. Bi siha isdit can bagga ve gu woninug ul ri gatdodni siwofbe hugel.",
+    "bio": "Nid fohnupim se igamiju uc vehmiwet woru hebzudle omocomlob ozoiga recinabo jibeguru ohadegas. Je if advip kauh fosjoc feb zoihpaf ezmi gizo zejduc dugofri riboh nunesi gubufdet. Fiwub sucdeb ger kasito wo da mikupecot zo ipi pun vuvusvaw nowju atuguhbow rafal mecze begfijnim. Ga tolreho us figtomsaw lezutpe kiiwi jo hamagki perwi mus cekhud hubkij. Wiwhophom rocwalfuk nuhofe uvfensu guhci tit pikooci odave pino asten givezimu nejucur hornu pogu gadebe ri ruwa ho."
+  },
+  "apiKey": "0ccf1abffc626fab48fad486b9ef0de7b24f88a3b92f106ad65152cca3d9cd21",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
