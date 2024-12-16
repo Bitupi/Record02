@@ -1,0 +1,26 @@
+{
+  "name": "Victoria Woods",
+  "age": 64,
+  "address": {
+    "street": "Sala Drive",
+    "city": "Nembawcel",
+    "state": "NY",
+    "zip": "39625"
+  },
+  "contact": {
+    "phone": "(718) 670-9641",
+    "servicePhone": "800559575"
+  },
+  "birthday": "1998-02-08T02:14:48.067Z",
+  "ip": "23.103.79.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Tirozop fe tuchidom zin ezmoki lej reiju medlu nekase su goig jokum itasi owjug zauzo wuwfence leivcib. Votdijso ketebuji duvit setec ahoke evzihuto fih jezhangi mu piggati ka fuf cimpe ahtot ke tahanek ro lefo. Wuito nusebwef go wugar pij fivah li tonidno jihubwu medezuv tapjeocu relaasa. Korukvo telulu fapal meh rivag be badauku rulupiz sip isoekso mu pomne ti vedale liru boroop dukuci. Gutfiniz sac tigahaca ud ku sanugfi gufa lagho zi kip gedjuegu udoumakud se jizku uva.",
+    "bio": "Ruema vu hozu udameipi vi tecren fi elkod nugul atnukid opaehomug jo gozdoebu. Ewaagaca sijozo ucuva mi ujis vot kasogac veg fita su ba ti. Lo go ilego avbekgib donkiz femezeh netnozmip mibe suca erpoj necamso razis mobli."
+  },
+  "apiKey": "3fe1028d900018e4746c585e00fa473226862cf062582b6b52f073427dbd1c63",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
